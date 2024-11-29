@@ -1,0 +1,364 @@
+﻿{
+  "Items": [
+    {
+      "Word": "go",
+      "Description": "Abstract strategy board game for two players in which the aim is to capture more territory than the opponent by fencing off empty space invented in China ",
+      "Category": "Sport"
+    },
+    {
+      "Word": "air",
+      "Description": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen",
+      "Category": "Mathphysics"
+    },
+    {
+      "Word": "ant",
+      "Description": "A small, social insect that lives in colonies with one or more breeding queens, known for its industrious nature",
+      "Category": "Creature"
+    },
+    {
+      "Word": "art",
+      "Description": "The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power",
+      "Category": "VisualArt"
+    },
+    {
+      "Word": "gin",
+      "Description": "A clear alcoholic spirit distilled from grain or malt and flavoured with juniper berries",
+      "Category": "Plant"
+    },
+    {
+      "Word": "inn",
+      "Description": "A pub, typically one in the country, in some cases providing accommodation",
+      "Category": "Society"
+    },
+    {
+      "Word": "ion",
+      "Description": "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons",
+      "Category": "Mathphysics"
+    },
+    {
+      "Word": "oar",
+      "Description": "A pole with a flat blade, used to row or steer a boat through the water",
+      "Category": "Tool"
+    },
+    {
+      "Word": "oat",
+      "Description": "An Old World cereal plant with a loose, branched cluster of florets, cultivated in cool climates and widely used for animal feed",
+      "Category": "Plant"
+    },
+    {
+      "Word": "rag",
+      "Description": "A torn piece of old cloth",
+      "Category": "Textile"
+    },
+    {
+      "Word": "rat",
+      "Description": "A rodent that resembles a large mouse, typically having a pointed snout and a long tail",
+      "Category": "Creature"
+    },
+    {
+      "Word": "rig",
+      "Description": "A large structure that is used for removing oil or gas from the ground or the bottom of the sea",
+      "Category": "None"
+    },
+    {
+      "Word": "rot",
+      "Description": "Same as decay",
+      "Category": "None"
+    },
+    {
+      "Word": "tag",
+      "Description": "A label attached to someone or something for the purpose of identification or to give other information",
+      "Category": "None"
+    },
+    {
+      "Word": "tan",
+      "Description": "A light brown shade resembling the color of tanned leather.",
+      "Category": "None"
+    },
+    {
+      "Word": "tao",
+      "Description": "The absolute principle underlying the universe, combining within itself the principles of yin and yang and signifying the way, or code of behaviour, that is in harmony with the natural order",
+      "Category": "Philosophy"
+    },
+    {
+      "Word": "tar",
+      "Description": "A dark, thick flammable liquid distilled from wood or coal, consisting of a mixture of hydrocarbons, resins, alcohols, and other compounds. it is used in road-making and for coating and preserving timber",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "tin",
+      "Description": "A silvery-white metal, the chemical element of atomic number 50",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "ton",
+      "Description": "A unit of weight equal to 2,240 lb avoirdupois (1016.05 kg)",
+      "Category": "Mathphysics"
+    },
+    {
+      "Word": "zoo",
+      "Description": "An area in which animals, especially wild animals, are kept so that people can go and look at them",
+      "Category": "Architecture"
+    },
+    {
+      "Word": "agar",
+      "Description": "A gelatinous substance obtained from certain red seaweeds and used in biological culture media and as a thickener in foods",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "aria",
+      "Description": "A piece of music in an opera sung by one person",
+      "Category": "Music"
+    },
+    {
+      "Word": "gain",
+      "Description": "An increase in the amount of something, especially in wealth or weight",
+      "Category": "Mathphysics"
+    },
+    {
+      "Word": "gait",
+      "Description": "A person's manner of walking",
+      "Category": "Society"
+    },
+    {
+      "Word": "gnat",
+      "Description": "A small two-winged fly that resembles a mosquito",
+      "Category": "Creature"
+    },
+    {
+      "Word": "goat",
+      "Description": "A hardy domesticated ruminant mammal that has backward-curving horns and (in the male) a beard; it is kept for its milk and meat, and noted for its lively behaviour",
+      "Category": "Creature"
+    },
+    {
+      "Word": "gran",
+      "Description": "One's grandmother",
+      "Category": "Society"
+    },
+    {
+      "Word": "grin",
+      "Description": "Smile broadly",
+      "Category": "Society"
+    },
+    {
+      "Word": "grit",
+      "Description": "Small loose particles of stone or sand",
+      "Category": "Geography"
+    },
+    {
+      "Word": "iron",
+      "Description": "A strong, hard magnetic silvery-grey metal, the chemical element of atomic number 26, much used as a material for construction and manufacturing, especially in the form of steel",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "naan",
+      "Description": "A type of flat bread found in the cuisines (= cooking styles) of many parts of Asia",
+      "Category": "Gastronomy"
+    },
+    {
+      "Word": "noir",
+      "Description": "A genre of film or literature characterized by bleakness, moral ambiguity, and crime.",
+      "Category": "VisualArt"
+    },
+    {
+      "Word": "noon",
+      "Description": "Twelve o'clock in the middle of the day, or about that time",
+      "Category": "None"
+    },
+    {
+      "Word": "nori",
+      "Description": "A Japanese edible seaweed eaten either fresh or dried",
+      "Category": "Gastronomy"
+    },
+    {
+      "Word": "rain",
+      "Description": "The condensed moisture of the atmosphere falling visibly in separate drops",
+      "Category": "None"
+    },
+    {
+      "Word": "rant",
+      "Description": "An act of speaking or complaining about something in a loud and/or angry way",
+      "Category": "None"
+    },
+    {
+      "Word": "ring",
+      "Description": "A small circular band, typically of precious metal and often set with one or more gemstones, worn on a finger as an ornament or a token of marriage, engagement, or authority",
+      "Category": "None"
+    },
+    {
+      "Word": "riot",
+      "Description": "A violent disturbance of the peace by a crowd",
+      "Category": "None"
+    },
+    {
+      "Word": "root",
+      "Description": "The part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibres",
+      "Category": "Plant"
+    },
+    {
+      "Word": "tarn",
+      "Description": "A small mountain lake",
+      "Category": "Geography"
+    },
+    {
+      "Word": "ting",
+      "Description": "A small, resonant sound similar to that made by a light metal object being hit.",
+      "Category": "Music"
+    },
+    {
+      "Word": "toga",
+      "Description": "A loose flowing outer garment worn by the citizens of ancient rome, made of a single piece of cloth and covering the whole body apart from the right arm",
+      "Category": "Textile"
+    },
+    {
+      "Word": "trio",
+      "Description": "A set or group of three people or things",
+      "Category": "None"
+    },
+    {
+      "Word": "aorta",
+      "Description": "The main thick tube carrying blood from the heart that takes blood to the other parts of the body",
+      "Category": "Physiology"
+    },
+    {
+      "Word": "argon",
+      "Description": "A chemical element that is a gas found in air",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "giant",
+      "Description": "An imaginary creature like a man but extremely tall, strong, and usually very cruel, appearing especially in children's stories",
+      "Category": "Creature"
+    },
+    {
+      "Word": "grain",
+      "Description": "Wheat or any other cultivated cereal used as food",
+      "Category": "Plant"
+    },
+    {
+      "Word": "grant",
+      "Description": "Agree to give or allow (something requested) to",
+      "Category": "Society"
+    },
+    {
+      "Word": "groan",
+      "Description": "A deep, long sound showing great pain or unhappiness",
+      "Category": "None"
+    },
+    {
+      "Word": "groin",
+      "Description": "The area between the abdomen and the upper thigh on either side of the body",
+      "Category": "None"
+    },
+    {
+      "Word": "ingot",
+      "Description": "A block of steel, gold, silver, or other metal, typically oblong in shape",
+      "Category": "Tool"
+    },
+    {
+      "Word": "intro",
+      "Description": "An introduction",
+      "Category": "None"
+    },
+    {
+      "Word": "nitro",
+      "Description": "Short for nitroglycerine",
+      "Category": "Chemistry"
+    },
+    {
+      "Word": "onion",
+      "Description": "A swollen edible bulb used as a vegetable, having a pungent taste and smell and composed of several concentric layers",
+      "Category": "Plant"
+    },
+    {
+      "Word": "organ",
+      "Description": "A part of an organism which is typically self-contained and has a specific vital function",
+      "Category": "Physiology"
+    },
+    {
+      "Word": "ratio",
+      "Description": "The quantitative relation between two amounts showing the number of times one value contains or is contained within the other",
+      "Category": "None"
+    },
+    {
+      "Word": "ronin",
+      "Description": "A wandering samurai who had no lord or master, in Feudal Japan",
+      "Category": "History"
+    },
+    {
+      "Word": "taiga",
+      "Description": "The swampy coniferous forest of high northern latitudes, especially that between the tundra and steppes of Siberia",
+      "Category": "Geography"
+    },
+    {
+      "Word": "tango",
+      "Description": "A ballroom dance originating in buenos aires, characterized by marked rhythms and postures and abrupt pauses",
+      "Category": "Music"
+    },
+    {
+      "Word": "tiara",
+      "Description": "A jewelled ornamental band worn on the front of a woman's hair",
+      "Category": "None"
+    },
+    {
+      "Word": "train",
+      "Description": "A number of connected coaches or trucks, pulled by an engine or powered by a motor in each one, taking people and goods from one place to another",
+      "Category": "Technology"
+    },
+    {
+      "Word": "angina",
+      "Description": "A condition that causes strong chest pains because blood containing oxygen is prevented from reaching the heart muscle by blocked arteries",
+      "Category": "Physiology"
+    },
+    {
+      "Word": "nation",
+      "Description": "A country considered as a body of people united by common descent, history, culture, or language, inhabiting a particular area or territory",
+      "Category": "Governance"
+    },
+    {
+      "Word": "notion",
+      "Description": "A conception of or belief about something",
+      "Category": "Philosophy"
+    },
+    {
+      "Word": "origin",
+      "Description": "The beginning or cause of something",
+      "Category": "None"
+    },
+    {
+      "Word": "rating",
+      "Description": "A measurement of how good or popular someone or something is",
+      "Category": "None"
+    },
+    {
+      "Word": "ration",
+      "Description": "A fixed amount of a commodity officially allowed to each person during a time of shortage, as in wartime",
+      "Category": "Governance"
+    },
+    {
+      "Word": "zoning",
+      "Description": "The act of deciding, or the decision that has been taken about, what particular use an area should have",
+      "Category": "None"
+    },
+    {
+      "Word": "granita",
+      "Description": "A frozen dessert made from sugar, water and various flavorings",
+      "Category": "Gastronomy"
+    },
+    {
+      "Word": "oration",
+      "Description": "A formal public speech about a serious subject",
+      "Category": "None"
+    },
+    {
+      "Word": "rioting",
+      "Description": "Noisy, violent, and uncontrolled behaviour by a group of people in a public place, often as a protest",
+      "Category": "None"
+    },
+    {
+      "Word": "rigatoni",
+      "Description": "Pasta in the form of short hollow fluted tubes",
+      "Category": "Gastronomy"
+    }
+  ]
+}

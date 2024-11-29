@@ -1,0 +1,24 @@
+﻿{
+  "Items": [
+    {
+      "Word": "gin",
+      "Description": "A clear alcoholic spirit distilled from grain or malt and flavoured with juniper berries",
+      "Category": "Plant"
+    },
+    {
+      "Word": "inn",
+      "Description": "A pub, typically one in the country, in some cases providing accommodation",
+      "Category": "Society"
+    },
+    {
+      "Word": "gain",
+      "Description": "An increase in the amount of something, especially in wealth or weight",
+      "Category": "Mathphysics"
+    },
+    {
+      "Word": "naan",
+      "Description": "A type of flat bread found in the cuisines (= cooking styles) of many parts of Asia",
+      "Category": "Gastronomy"
+    }
+  ]
+}
