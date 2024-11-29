@@ -16,7 +16,6 @@ namespace ArcaneWords.Scripts.Game.Gameplay.Level
         private TypePaperModel _typePaperModel;
         private TypePaperViewModel _typePaperViewModel;
         private TypewriterView _typewriterView;
-        private TypewriterViewModel _typewriterViewModel;
         private TypewriterModel _typewriterModel;
         private UITitleView _titleView;
         private LevelsHandler _levelsHandler;
@@ -25,15 +24,14 @@ namespace ArcaneWords.Scripts.Game.Gameplay.Level
         private int _currentNotifierReadyCount;
         
         [Inject]
-        public void Construct(TypePaperView typePaperView, TypePaperModel typePaperModel, TypePaperViewModel typePaperViewModel,
-            TypewriterModel typewriterModel, TypewriterView typewriterView, TypewriterViewModel typewriterViewModel,
+        public void Construct(TypePaperView typePaperView, TypePaperModel typePaperModel, 
+            TypePaperViewModel typePaperViewModel, TypewriterModel typewriterModel, TypewriterView typewriterView,
             UITitleView titleView, LevelsHandler levelsHandler)
         {
             _typePaperView = typePaperView;
             _typePaperModel = typePaperModel;
             _typePaperViewModel = typePaperViewModel;
             _typewriterView = typewriterView;
-            _typewriterViewModel = typewriterViewModel;
             _typewriterModel = typewriterModel;
             _titleView = titleView;
             _levelsHandler = levelsHandler;
@@ -84,7 +82,6 @@ namespace ArcaneWords.Scripts.Game.Gameplay.Level
                     _typewriterView.StartNewLevel(levelName);
                     _titleView.SetTitle(levelName);
                     _typewriterModel.Init();
-                    _typewriterViewModel.Init();
                     _typePaperView.ShowPaper(typePaperPosition, typePaperRotation);
                 });
         }

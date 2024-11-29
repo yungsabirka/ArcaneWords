@@ -25,7 +25,6 @@ namespace ArcaneWords.Scripts.Game.Gameplay.Typewriter.Buttons
                 OnTimerComplete.OnNext(Unit.Default);
             }
         }
-
         
         public void Start()
         {
